@@ -12,7 +12,4 @@ changed to rebase in main branch
 rebase 2nd change 
 
 variable piline demo
-akash is a low student 
-vikas is good in study 
-Test commit
-new commit 
+
